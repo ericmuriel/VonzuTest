@@ -1,0 +1,9 @@
+@import 'https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap';
+
+.App {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+}
+body{
+  background-color: #f0f0f0;
+}
